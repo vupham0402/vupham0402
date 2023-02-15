@@ -1,4 +1,3 @@
-### Hi there 👋
 Vu Pham 
 Java Backend Engineer
 vupham0402@gmail.com
