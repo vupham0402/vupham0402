@@ -1,6 +1,6 @@
 ### Vu Pham 
 ### Java Backend Engineer
-### vupham0402@gmail.com
+
 - B.S in Information Technology & Administrative Management at Central Washington University
 - Backend:  PHP, Java, Spring, Servlet
 - Frontend:  HTML, CSS, JavaScript, jQuery, JSP
