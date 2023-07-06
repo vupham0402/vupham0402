@@ -1,5 +1,3 @@
-- B.S in Information Technology & Administrative Management at Central Washington University
-- Backend:  PHP, Java, Spring, Servlet
-- Frontend:  HTML, CSS, JavaScript, jQuery, JSP
-- Additional Skills: OOP, MySQL, JDBC, Hibernate, RESTful API, Redis
-
+DevOps:  Linux, Bash Scripting, AWS, Jenkins, Docker, Ansible, Kubernetes, Terraform 
+Languages:  PHP, HTML, CSS, JavaScript, jQuery, Java, Python
+Additional Skills: Spring Boot, Django, ReactJS, MySQL, Restful API, Tableau, R
